@@ -1,0 +1,4 @@
+db.host=192.168.1.23
+db.user=root
+db.password=root
+db.dbname=Pizzeria
