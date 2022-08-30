@@ -20,7 +20,7 @@ public class Pizzeria extends JFrame {
         this.dtm = (DefaultTableModel) this.tabla.getModel();
         
          // set icon image on frame
-        this.setIconImage(new ImageIcon("pizza.png").getImage());
+        this.setIconImage(new ImageIcon("img/pizza.png").getImage());
         this.dtm = (DefaultTableModel) this.tabla.getModel();
 
         // i make the frame visible
