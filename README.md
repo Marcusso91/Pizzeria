@@ -54,5 +54,7 @@ to the database.
   
 7. getFeltetek.class
   - I make a new jframe that I invite from the pizzeria.class and with I can request all the ingredients from the given
+  
+  
 
-Note:- This is a Sample Project, there is an sql file in the custom_file folder
+Note:- This is a Sample Project, there is an .sql file in the SQL_file folder
